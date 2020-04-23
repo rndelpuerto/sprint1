@@ -25,7 +25,7 @@ function textoDato(dato, cadenaTipoDato, concat)
  * 
  * Recibe una cantidad de segundos y devuelve 
  * una cadena de texto con una interpretación 
- * más simple del tiempo para una humano.
+ * más simple del tiempo para un humano.
  * 
  * @param {Integer} segundos 
  * 
